@@ -1,7 +1,7 @@
 # Deep Learning Final Project: Gated Attention Mechanisms
 
 Contributors: Mithilesh Biradar, Pratyush Singh
-Implementation and analysis of gated attention mechanisms in transformer-based language models.
+- Implementation and analysis of gated attention mechanisms in transformer-based language models.
 
  
 ## Overview
